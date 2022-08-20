@@ -13,7 +13,7 @@ END;
 |   
     
 
-DELETE FROM Employees WHERE Id_emp = 5; |
+DELETE FROM Employees WHERE Id_emp = 3; |
 DELETE FROM Employees WHERE Id_emp = 7; |
     
         
